@@ -4,6 +4,8 @@ Arduino Mega with Real Time Clock and 7 Segment Display using Port Manipulation
 ## Wiring
 https://www.allaboutcircuits.com/projects/interface-a-seven-segment-display-to-an-arduino/
 
+https://howtomechatronics.com/tutorials/arduino/arduino-ds3231-real-time-clock-tutorial/
+
 ### INFO
 This example is using a 4 panel 7 segment LCD
 
