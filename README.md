@@ -16,5 +16,5 @@ PORTF for switching between the panels.
   <img src="/img/seven_segment_rtc.jpg" width="500"/>
 </p>
 
-# DS3231 Library
+### DS3231 Library
 http://www.rinkydinkelectronics.com/library.php?id=73
