@@ -16,9 +16,5 @@ There are individual anode pins for segments A-G and the decimal point.
 The sketch uses PORTK for the LCD LED segments (A - G) and
 PORTF for switching between the panels.
 
-<p align="center">
-  <img src="/img/seven_segment_rtc.jpg" width="500"/>
-</p>
-
 ### DS3231 Library
 http://www.rinkydinkelectronics.com/library.php?id=73
