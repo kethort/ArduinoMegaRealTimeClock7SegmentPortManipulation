@@ -1,4 +1,4 @@
-# ArduinoMegaRealTimeClock7SegmentPortManipulation
+# port-manipulation-arduino-mega-rtc
 Arduino Mega with Real Time Clock and 7 Segment Display using Port Manipulation
 
 ## Wiring
